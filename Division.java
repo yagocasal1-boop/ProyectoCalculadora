@@ -1,5 +1,5 @@
 public class Division {
-public double dividir(int a, int b) {
-return (double) a / b;
+if (divisor == 0) {
+    System.out.println("Error: No se puede dividir entre cero");
 }
 }
