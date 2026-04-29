@@ -2,9 +2,9 @@ public class Calculadora {
 public static void main(String[] args) {
 System.out.println("--- Calculadora Iniciada ---");
 
-suma sum = new suma();
+resta rest = new resta();
 
-System.out.println("suma: " + sum.sumar(10, 5))
+System.out.println("resta: " + rest.restar(10, 5));
 }
 }
 
